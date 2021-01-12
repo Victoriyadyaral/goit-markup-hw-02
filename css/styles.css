@@ -113,6 +113,7 @@ ul {
 }
 .hero .title {
     color: var(--primary-white-color);
+    text-transform: uppercase;
     font-weight: 900;
     font-size: 44px;
     line-height: 1.4;
@@ -139,6 +140,7 @@ ul {
 
 .advantages .title {
     color: var(--primary-text-title);
+    text-transform: uppercase;
     font-weight: 700;
     line-height: 1.14;
 }
