@@ -37,7 +37,7 @@ body {
     color: var(--primary-text-color);
     font-family: var(--primary-font);
     font-size: 14px;
-    line-height: 1.71;
+    line-height: 1.714;
     letter-spacing: 0.03em;
 }
 
@@ -62,7 +62,7 @@ ul {
     font-family: var(--logo-font);
     font-weight: 700;
     font-size: 26px;
-    line-height: 1.2;
+    line-height: 1.231;
 }
 
 .logo:hover,
